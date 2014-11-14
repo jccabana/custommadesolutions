@@ -10,7 +10,7 @@
 <!--[if IE 8]><link href="media/stylesheets/style-ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
 
 
-<title>K&B Engineering Systems, Inc.</title>
+<title>Custom Made Solutions, Inc.</title>
 
 <link rel="stylesheet" type="text/css" href="media/scripts/libs/shadowbox/shadowbox.css" />
 
