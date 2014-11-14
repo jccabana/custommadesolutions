@@ -26,7 +26,7 @@
 						Miami, FL 33186<br />
 						USA</p>
 						
-						<p>e-mail: <a href="mailto:kbengineering@bellsouth.net">kbengineering@bellsouth.net</a></p>
+						<p>e-mail: <a href="mailto:custommadesolution@att.net">custommadesolution@att.net</a></p>
 					</div>
 				</div>
 			</div>
