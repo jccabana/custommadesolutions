@@ -16,8 +16,8 @@
 					<div class="two-third">
 						<h1 class="red">CALL US</h1>
 						<p>We value integrity, quality and timeliness. In working with us you gain more than a vendor but a friend in business.</p>
-						<p>To obtain additional information about our services or to schedule a project consultation please fill out the form. If you prefer to speak with someone immediately please call us at (305) 234-8139,(305) 254-4343.</p>
-						<p>ph. (305) 234-8139</p>
+						<p>To obtain additional information about our services or to schedule a project consultation please fill out the form. If you prefer to speak with someone immediately please call us at (305) 254-4343,(305) 234-8139.</p>
+						<p>ph. (305) 254-4343</p>
                                                 <p>Fax. (305) 255-3655</p>
 					</div>
 					<div class="third">

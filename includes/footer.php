@@ -35,7 +35,7 @@
 					<h2 class="red">STAY IN TOUCH</h2>
 					<ul class="quick-links">
 						<li>United States</li>
-                        <li>(305) 232-1848</li>
+                        <li>(305) 254-4343</li>
                         <li></li>
                         <li></li>
                         <li></li>
