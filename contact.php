@@ -20,7 +20,7 @@
 						<p>ph. (305) 234-8139</p>
 					</div>
 					<div class="third">
-						<h1 class="red">OUR LOCATIONS</h1>
+						<h1 class="red">OUR LOCATIONS </h1>
 						<p>North America<br />
 						12250 SW 132ND Ct Ste 109<br />
 						Miami, FL 33186<br />
