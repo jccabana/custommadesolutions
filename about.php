@@ -11,7 +11,7 @@
 					?>	
 				</div>
 			</div>
-			
+			  
 			<div class="main">
 			<ul class="news">				
 					<li>
