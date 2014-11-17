@@ -34,7 +34,7 @@
 <div id="wrapper"> 
 	<div id="container">
 		<div id="header">
-			<h1><a href="index.php"><img src="media/cms/cmslogo.png" height="77" width="214" /></a></h1>
+			<h1><a href="index.php"><img src="media/cms/cmslogo.png" height="100" width="500" /></a></h1>
             <div id="nav">
 				<ul>
 					<li <? if($page == "home"){ echo 'class="current"'; } ?>><a href="index.php"><span>HOME</span></a></li>
