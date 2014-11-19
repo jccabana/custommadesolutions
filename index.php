@@ -59,7 +59,7 @@
 						<div class="desc">
 						  <h2 style="height:100px;"><a href="windows_doors.php">WINDOW SYSTEMS & DOORS</a></h2>
 								<p>
-                                	K & B Enginnering is proud to anounce its parnership with PGT Industries PGT is the nation's leading manufacturer and supplier of impact-resistant windows and doors, including, PGT Vinyl System & WindGuard Vinyl, PGT Aluminum & WindGuard Aluminum, among others.
+                                	Custom Made Solutions is proud to anounce its parnership with PGT Industries PGT is the nation's leading manufacturer and supplier of impact-resistant windows and doors, including, PGT Vinyl System & WindGuard Vinyl, PGT Aluminum & WindGuard Aluminum, among others.
                                 </p>
 						</div>
 						<a href="windows_doors.php"><img src="media/db/banner_WindowsDoors.jpg" alt="banner_WindosDoors" width="980" height="330" /></a>
